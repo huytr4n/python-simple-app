@@ -1,0 +1,10 @@
+README.rst
+simpleapp/__init__.py
+simpleapp/__main__.py
+simpleapp/cli.py
+simpleapp.egg-info/PKG-INFO
+simpleapp.egg-info/SOURCES.txt
+simpleapp.egg-info/dependency_links.txt
+simpleapp.egg-info/entry_points.txt
+simpleapp.egg-info/not-zip-safe
+simpleapp.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+simpleapp = simpleapp.cli:main
+
